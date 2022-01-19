@@ -32,6 +32,8 @@ The following **additional** features are implemented:
 
 Here's a Demo of the Tip Calculator app:
 
+<img src='https://i.imgur.com/ekO0fJC.gif' title='Demo Walkthrough' width='' alt='Demo Walkthrough' />
+
 ![](https://i.imgur.com/ekO0fJC.gif)
 
 GIF created with [EZ GIF]
