@@ -28,17 +28,20 @@ The following **additional** features are implemented:
 - [X] Rounding function through a segmented control
 
 
-## Video Walkthrough
+## GIF Demo
 
-Here's a walkthrough of implemented user stories:
+Here's a Demo of the Tip Calculator app:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://i.imgur.com/ekO0fJC.gif)
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [EZ GIF]
+(https://ezgif.com).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app:
+
+The most timue consuming portion of the prework was the research behind learning Swift. This is my first time using Swift so a good deal of testing took place to make sure I was using the language correctly and efficiently. After finding my stride, buiding the app became much easier and most of my time went into the way the UI looked, not fixing bugs.
 
 ## License
 
@@ -55,3 +58,4 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
