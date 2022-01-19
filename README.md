@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a Demo of the Tip Calculator app:
 
-<img src='https://i.imgur.com/ekO0fJC.gif' title='Demo Walkthrough' width='' alt='Demo Walkthrough' />
+(If on github.com, use "Display the source blob to see imgur link")
 
 ![](https://i.imgur.com/ekO0fJC.gif)
 
@@ -60,4 +60,5 @@ The most timue consuming portion of the prework was the research behind learning
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
 
