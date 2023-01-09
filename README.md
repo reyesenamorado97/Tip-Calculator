@@ -34,7 +34,7 @@ Here's a Demo of the Tip Calculator app:
 
 (If on github.com, use "Display the source blob to see imgur link")
 
-![](https://i.imgur.com/ekO0fJC.gif)
+![](https://i.imgur.com/ekO0fJC.gif) 
 
 GIF created with [EZ GIF]
 (https://ezgif.com).
